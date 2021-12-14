@@ -7,7 +7,6 @@ measurements (see __Attributes/Features/Inputs__ below).
 In particular, all patients here are females and at least 21 years old of Pima Indian heritage.
 
 3. __Task:__
-
 This data set is meant for __binary classification__ wherein one has to identify whether a patient has 
 diabetes or not depending on certain medical conditions.
 
