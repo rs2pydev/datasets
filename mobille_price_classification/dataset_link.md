@@ -1,5 +1,5 @@
-## Dataset Link: **[KAGGLE - Mobille Price Classification](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification)**
+## DATASET SOURCE: **[KAGGLE - Mobille Price Classification](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification)**
 
-### Two files available: 
+### AVAILABLE FILES: 
 * **train.csv**
 * **test.csv**
