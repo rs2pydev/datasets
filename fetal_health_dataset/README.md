@@ -1,4 +1,4 @@
-# Dataset for Fetal Health Multi-Class Classification of  
+# Dataset for Fetal Health (Multi-Class) Classification Task
 
 ## 1. Sources 
 
